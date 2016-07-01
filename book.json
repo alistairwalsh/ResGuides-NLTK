@@ -14,7 +14,7 @@
         "sectionx",
         "youtubex",
         "edit-link",
-        "responsive-iframes"
+        "-responsive-iframes"
     ],
     "pluginsConfig": {
         "ga": {
