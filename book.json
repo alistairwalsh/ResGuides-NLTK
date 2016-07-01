@@ -37,4 +37,16 @@
             "resbaz.edu.au": "http://melbourne.resbaz.edu.au/"
         }
     }
+    {
+    "plugins": ["googledocs"],
+    "pluginsConfig": {
+        "googledocs": {
+            "rm": "minimal",
+            "frameborder": "0",
+            "width": "100%",
+            "height": "500px",
+            "noembed": "new window"
+        }
+    }
+    }
 }
