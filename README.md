@@ -5,3 +5,8 @@ ResBaz (the Research Bazaar) is a campaign, community and conference, falling un
 ## Contribute
 
 We love contributors! Please help us improve or fix the documentation by opening a Pull Request. The easiest way to contribute is to click on the `edit this page` button on the blue header bar.
+
+[Non-embedded spreadsheet](https://docs.google.com/presentation/d/1HOjSY06bvQX-lxKPssOxAnZOopAgH2ZIY79qRtjiyhc/edit#slide=id.gb50f26b6b_0_7=en "Open in new window")
+
+
+ 
