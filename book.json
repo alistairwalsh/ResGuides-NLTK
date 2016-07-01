@@ -13,16 +13,17 @@
         "mathjax",
         "sectionx",
         "youtubex",
-        "edit-link"
+        "edit-link",
+        "responsive-iframes"
     ],
     "pluginsConfig": {
         "ga": {
             "token": "UA-12478122-2"
         },
         "edit-link": {
-           "base": "https://github.com/resbaz/ResGuides-Gitbook/edit/master",
-           "label": "Edit This Page"
-       }
+            "base": "https://github.com/resbaz/ResGuides-Gitbook/edit/master",
+            "label": "Edit This Page"
+        }
     },
     "styles": {
         "website": "styles/all.css",
